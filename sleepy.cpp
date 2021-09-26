@@ -1,8 +1,8 @@
 #include<cstdio>
 /*Vick Ye
- *time
- *score
- *...
+ *1h 18m 53s
+ *12/12
+ *infinite loops
  */
 
 int cows[100];
