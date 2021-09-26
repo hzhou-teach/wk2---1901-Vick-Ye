@@ -3,7 +3,7 @@
 /*Vick Ye
  *1h 51m 41s
  *10/10
- *strings and organizing animals and characteristics
+ *strings, organizing animals and characteristics, nested loops
  */
 //array representing potential guesses, with inner array representing characteristics
 std::string A[100][100];
