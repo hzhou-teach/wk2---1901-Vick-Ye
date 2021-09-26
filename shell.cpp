@@ -2,7 +2,7 @@
 /*Vick Ye
  *38m 06s
  *10/10
- *messed up turning shell numbers into indices a couple times
+ *shell numbers into indices
  */
 int position[3] = {1, 2, 3};
 int A[100], B[100], G[100];
